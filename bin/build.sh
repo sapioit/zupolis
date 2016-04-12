@@ -2,7 +2,7 @@
 
 if [ $# -eq 0 ];
 	then
-		echo "Usage: build.sh SECTION (where section can be one of the following: all, clean, libs, app, js, css"
+		echo "Usage: build.sh SECTION (where section can be one of the following: all, clean, lib, app, js, css"
 		exit 1
 fi
 
@@ -27,7 +27,7 @@ if [ "$command" == "all" -o "$command" == "css" ];
 		java -jar bin/yuicompressor-2.4.8.jar dist/app.css -o dist/app.min.css -v 2> bin/css.log
 fi
 
-if [ "$command" == "all" -o "$command" == "libs" -o "$command" == "js" ];
+if [ "$command" == "all" -o "$command" == "lib" -o "$command" == "js" ];
 	then
 		echo - Compressing libraries
 		cat bin/library.filelist | xargs cat >> dist/lib.js

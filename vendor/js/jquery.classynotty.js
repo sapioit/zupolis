@@ -1,11 +1,11 @@
-/*!
+/**
  * jQuery ClassyNotty
  * vox.SPACE
  *
  * Written by Marius Stanciu - Sergiu <marius@vox.space>
  * Licensed under the MIT license https://vox.space/LICENSE-MIT
  * Version 1.1.2
- *
+ * @preserve
  */
 (function($) {
     $.ClassyNotty = function(settings) {
