@@ -3,7 +3,7 @@
  * vox.SPACE
  *
  * @author Marius Stanciu - Sergiu <marius@vox.space>
- * @license https://vox.space/LICENSE-MIT
+ * @license https://vox.space/LICENSE
  * @package Zupolis
  * @subpackage Utils
  * @url https://vox.space

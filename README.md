@@ -1,0 +1,38 @@
+     ________   ____  ____    _______    ______    ___        __      ________  
+    ("      "\ ("  _||_ " |  |   __ "\  /    " \  |"  |      |" \    /"       ) 
+     \___/   :)|   (  ) : |  (. |__) :)// ____  \ ||  |      ||  |  (:   \___/  
+       /  ___/ (:  |  | . )  |:  ____//  /    ) :)|:  |      |:  |   \___  \    
+      //  \__   \\ \__/ //   (|  /   (: (____/ //  \  |___   |.  |    __/  \\   
+     (:   / "\  /\\ __ //\  /|__/ \   \        /  ( \_|:  \  /\  |\  /" \   :)  
+      \_______)(__________)(_______)   \"_____/    \_______)(__\_|_)(_______/   
+
+
+Description
+===========
+
+Zupolis is a city-building game written in Javascript with the help of the
+jQuery library.
+
+
+Features
+========
+
+
+License
+=======
+
+Zupolis is written by Marius Stanciu - Sergiu marius AT vox.space and released
+into the Public Domain. It can't get any more free than that.
+
+Contributing
+============
+
+Contributions are welcome! If you need any help, contact me at marius AT vox.space.
+
+Source code
+===========
+
+The application can be downloaded from https://vox.space or from GitHub.com
+by issueing:
+
+`git clone https://github.com/voxspace/zupolis.git`
