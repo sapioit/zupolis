@@ -7,7 +7,7 @@
       \_______)(__________)(_______)   \"_____/    \_______)(__\_|_)(_______/   
 
 
-Description
+Description [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ===========
 
 Zupolis is a city-building game written in Javascript with the help of the jQuery
